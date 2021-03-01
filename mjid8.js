@@ -119,13 +119,13 @@ if (minute <10 ) {minute="0"+minute;}
             if(score>=15){
 out8.innerHTML="<span style='color:green;'><h1>genial. has probado<h1>"+ score +" de "+ questions8.length +"</h1></h1></span>";
 inicio8.className="green8";
-fini8.innerHTML="<h3> tu tiempo es  :00"+minute+":"+ second +"</h3>";
+fini8.innerHTML="<h3> tu tiempo es  00:"+minute+":"+ second +"</h3>";
 localStorage.setItem("mjid8","green8");//poner local storge
 foto8.src="https://rawcdn.githack.com/mjidfad/nacionalidad/3b259227fff1bd46f11548288b9f4b0b1352eb42/like.jpg";} 
             else {
 out8.innerHTML="<span style='color:red;'><h1>no has probado<h1>"+ score +" de "+ questions8.length +"</h1></h1></span>";
 inicio8.className="red8";
-fini8.innerHTML="<h3> tu tiempo es  :00"+minute+":"+ second +"</h3>";
+fini8.innerHTML="<h3> tu tiempo es  00:"+minute+":"+ second +"</h3>";
 localStorage.setItem("mjid8","red8");//poner local storge
 foto8.src="https://rawcdn.githack.com/mjidfad/nacionalidad/3b259227fff1bd46f11548288b9f4b0b1352eb42/dontlike.png";}  }
 
