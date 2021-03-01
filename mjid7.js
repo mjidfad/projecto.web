@@ -111,7 +111,7 @@ function oki1_7(){/*t*/
             start_7.classList.remove("start-test7");
             box7.classList.add("active7");
               //resultado de el tirpo
-var minute=44-Math.floor(s12/60); 
+var minute=44-Math.floor(s7/60); 
 var second=60-s7 %60;
 if(second<10  ){second="0"+second;}
 if (minute <10 ) {minute="0"+minute;}

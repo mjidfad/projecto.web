@@ -112,7 +112,7 @@ function oki1_2(){/*t*/
             start_2.classList.remove("start-test2");
             box2.classList.add("active2");
 
-            var minute=44-Math.floor(s12/60); 
+            var minute=44-Math.floor(s2/60); 
             var second=60-s2 %60;
             if(second<10  ){second="0"+second;}
             if (minute <10 ) {minute="0"+minute;}

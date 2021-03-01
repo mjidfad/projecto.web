@@ -189,7 +189,7 @@ function setup(){/*t*/
                 function fin(){
                    start.classList.remove("start-test");
                     box.classList.add("active");
-   var minute=44-Math.floor(s12/60); 
+   var minute=44-Math.floor(s/60); 
    var second=60-s %60;
                     if(second<10  ){second="0"+second;}
                     if (minute <10 ) {minute="0"+minute;}
