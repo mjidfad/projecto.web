@@ -192,11 +192,11 @@ h2{
 }
 .green{
     background: green;padding: 10px ;
-    color: #ffffff;border: none;border-radius: 10px;
+    color: #ffffff;border: none;border-radius: 10px;width: 30%;
     font-size: 20px;cursor: pointer;display: inline-block;margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
 .red{
     background: red;padding: 10px ;
-    color: #ffffff;border: none;border-radius: 10px;
+    color: #ffffff;border: none;border-radius: 10px;width: 30%;
     font-size: 20px;cursor: pointer;display: inline-block;margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;
 }
 /*.b11{
