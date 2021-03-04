@@ -6,6 +6,16 @@ body{
     margin: 0;padding: 0;
     box-sizing: border-box;outline: none;
 }
+.ok{/*div timer*/
+    font-size: 20px;background-color: rgb(212, 195, 196);
+    justify-content: space-between;width: auto;align-items: center;
+  border-radius: 5px; height: auto;display: flex;
+  margin-right: 50px;padding:15px 10px 0px 10px;width: auto;}
+  .ok1{
+    font-size: 20px;background-color: rgb(212, 195, 196);border-radius: 5px;
+    width: auto;height:auto;padding:20px 10px 10px 10px ;
+  }
+
 
 
 .test2{
@@ -13,7 +23,7 @@ body{
     max-width: 800px;background-color:#ffffff;
     margin:20px auto;height: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 30px;border-radius: 10px;}
+    padding: 10px;border-radius: 10px;}
 .test2.start-test2{/*se cambia el numero*/
     display: block;}
 .b-2{
@@ -43,7 +53,9 @@ h2{
 .footer2{/*tambien*/
     font-size: 20px;color: #009688;font-weight: 600;
     padding-top: 20px;
-    margin: 0;text-align: center;display: inline-block;width: auto;}
+    margin: 0;text-align: center;display: inline-block;width: auto;
+
+}
 .option-list2{/*tambien*/
     background:#ffffff ;width:100%;height: auto;margin-top: 10px;}
 .option-list2 .disab{/*tambien*/
@@ -105,7 +117,7 @@ p{
     padding: 10px ;background: #009688;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 35%;height: 20%;}
     .bb{
         width: 100%;justify-content: space-between;
     }
@@ -119,7 +131,7 @@ p{
     max-width: 800px;background-color:#ffffff;
     margin:20px auto;height: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 30px;border-radius: 10px;}
+    padding: 10px;border-radius: 10px;}
 .test3.start-test3{/*se cambia el numero*/
     display: block;}
 .b-3{
@@ -194,7 +206,7 @@ p{
     max-width: 800px;background-color:#ffffff;
     margin:20px auto;height: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 30px;border-radius: 10px;}
+    padding: 10px;border-radius: 10px;}
 .test4.start-test4{/*se cambia el numero*/
     display: block;}
 .b-4{
@@ -269,7 +281,7 @@ p{
     max-width: 800px;background-color:#ffffff;
     margin:20px auto;height: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 30px;border-radius: 10px;}
+    padding: 10px;border-radius: 10px;}
 .test5.start-test5{/*se cambia el numero*/
     display: block;}
 .b-5{
@@ -344,7 +356,7 @@ p{
     max-width: 800px;background-color:#ffffff;
     margin:20px auto;height: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 30px;border-radius: 10px;}
+    padding: 10px;border-radius: 10px;}
 .test6.start-test6{/*se cambia el numero*/
     display: block;}
 .b-6{
@@ -420,7 +432,7 @@ p{
     max-width: 800px;background-color:#ffffff;
     margin:20px auto;height: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 30px;border-radius: 10px;}
+    padding: 10px;border-radius: 10px;}
 .test7.start-test7{/*se cambia el numero*/
     display: block;}
 .b-7{
@@ -494,7 +506,7 @@ p{
     max-width: 800px;background-color:#ffffff;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin:20px auto;height: auto;
-    padding: 30px;border-radius: 10px;}
+    padding: 10px;border-radius: 10px;}
 .test8.start-test8{/*se cambia el numero*/
     display: block;}
 .b-8{
@@ -568,7 +580,7 @@ p{
     max-width: 800px;background-color:#ffffff;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin:20px auto;height: auto;
-    padding: 30px;border-radius: 10px;}
+    padding: 10px;border-radius: 10px;}
 .test9.start-test9{/*se cambia el numero*/
     display: block;}
 .b-9{
@@ -643,7 +655,7 @@ p{
     max-width: 800px;background-color:#ffffff;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin:20px auto;height: auto;
-    padding: 30px;border-radius: 10px;}
+    padding: 10px;border-radius: 10px;}
 .test10.start-test10{/*se cambia el numero*/
     display: block;}
 .b-10{
@@ -720,7 +732,7 @@ p{
     max-width: 800px;background-color:#ffffff;
     margin:20px auto;height: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 30px;border-radius: 10px;}
+    padding: 10px;border-radius: 10px;}
 .test11.start-test11{/*se cambia el numero*/
     display: block;}
 .b-11{
@@ -795,7 +807,7 @@ p{
     align-items: center;display: none;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:#ffffff; max-width: 800px;
     margin:20px auto;height: auto;
-    padding: 30px;border-radius: 10px;}
+    padding: 10px;border-radius: 10px;}
 .test12.start-test12{/*se cambia el numero*/
     display: block;}
 .b-12{
