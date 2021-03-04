@@ -80,7 +80,7 @@ p{
     background: yellow;color: green;
 }
 .fin2{/*t*/
-    width: 60%;margin: 0 auto;text-align: center;border:solid black 1px;height: auto;
+    width: 70%;margin: 0 auto;text-align: center;border:solid black 1px;height: 60%;
     background-color:#ffffff;align-items: center;display: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 50px;padding-top: 30px;border-radius: 5px;}
@@ -103,16 +103,18 @@ p{
     display: none;}
 .green2{/*t*/
     background: green;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .red2{/*t*/
     background: red;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .b11{
     padding: 10px ;background: #009688;
     color: #ffffff;border: none;border-radius: 10px;
@@ -176,7 +178,7 @@ p{
 .bb3_3:hover{/*t*/
      background: yellow;color: green;}
 .fin3{/*t*/
-    width: 60%;margin: 0 auto;text-align: center;border:solid black 1px;height: auto;
+    width: 70%;margin: 0 auto;text-align: center;border:solid black 1px;height:60% ;
     background-color:#ffffff;align-items: center;display: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      margin-top: 50px;padding-top: 30px;border-radius: 5px;}
@@ -189,16 +191,18 @@ p{
     display: none;}
 .green3{/*t*/
     background: green;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .red3{/*t*/
     background: red;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 
  /*test 4 ////////////////////////////////////*/
  .test4{
@@ -251,7 +255,7 @@ p{
 .bb3_4:hover{/*t*/
      background: yellow;color: green;}
 .fin4{/*t*/
-    width: 60%;margin: 0 auto;text-align: center;border:solid black 1px;height: auto;
+    width: 70%;margin: 0 auto;text-align: center;border:solid black 1px;height: 60%;
     background-color:#ffffff;align-items: center;display: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      margin-top: 50px;padding-top: 30px;border-radius: 5px;}
@@ -264,16 +268,18 @@ p{
     display: none;}
 .green4{/*t*/
     background: green;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .red4{/*t*/
     background: red;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
  
  /*test 5 ////////////////////////////////////*/
  .test5{
@@ -326,7 +332,7 @@ p{
 .bb3_5:hover{/*t*/
      background: yellow;color: green;}
 .fin5{/*t*/
-    width: 60%;margin: 0 auto;text-align: center;border:solid black 1px;height: auto;
+    width: 70%;margin: 0 auto;text-align: center;border:solid black 1px;height:60% ;
     background-color:#ffffff;align-items: center;display: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      margin-top: 50px;padding-top: 30px;border-radius: 5px;}
@@ -339,16 +345,18 @@ p{
     display: none;}
 .green5{/*t*/
     background: green;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .red5{/*t*/
     background: red;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}   
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}   
   
  /*test 6 ////////////////////////////////////*/
  .test6{
@@ -401,7 +409,7 @@ p{
 .bb3_6:hover{/*t*/
      background: yellow;color: green;}
 .fin6{/*t*/
-    width: 60%;margin: 0 auto;text-align: center;border:solid black 1px;height: auto;
+    width: 70%;margin: 0 auto;text-align: center;border:solid black 1px;height: 60%;
     background-color:#ffffff;align-items: center;display: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      margin-top: 50px;padding-top: 30px;border-radius: 5px;}
@@ -414,16 +422,18 @@ p{
     display: none;}
 .green6{/*t*/
     background: green;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .red6{/*t*/
     background: red;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}   
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}   
 
   
  /*test 7 ////////////////////////////////////*/
@@ -477,7 +487,7 @@ p{
 .bb3_7:hover{/*t*/
      background: yellow;color: green;}
 .fin7{/*t*/
-    width: 60%;margin: 0 auto;text-align: center;border:solid black 1px;height: auto;
+    width: 70%;margin: 0 auto;text-align: center;border:solid black 1px;height: 60%;
     background-color:#ffffff;align-items: center;display: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      margin-top: 50px;padding-top: 30px;border-radius: 5px;}
@@ -490,16 +500,18 @@ p{
     display: none;}
 .green7{/*t*/
     background: green;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .red7{/*t*/
     background: red;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}     
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}     
 /*test 8 ////////////////////////////////////*/
 .test8{
     align-items: center;display: none;
@@ -551,7 +563,7 @@ p{
 .bb3_8:hover{/*t*/
      background: yellow;color: green;}
 .fin8{/*t*/
-    width: 60%;margin: 0 auto;text-align: center;border:solid black 1px;height: auto;
+    width: 70%;margin: 0 auto;text-align: center;border:solid black 1px;height: 60%;
     background-color:#ffffff;align-items: center;display: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      margin-top: 50px;padding-top: 30px;border-radius: 5px;}
@@ -564,16 +576,18 @@ p{
     display: none;}
 .green8{/*t*/
     background: green;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .red8{/*t*/
     background: red;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}         
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}         
 /*test 9 ////////////////////////////////////*/
 .test9{
     align-items: center;display: none;
@@ -625,7 +639,7 @@ p{
 .bb3_9:hover{/*t*/
      background: yellow;color: green;}
 .fin9{/*t*/
-    width: 60%;margin: 0 auto;text-align: center;border:solid black 1px;height: auto;
+    width: 70%;margin: 0 auto;text-align: center;border:solid black 1px;height:60% ;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:#ffffff;align-items: center;display: none;
      margin-top: 50px;padding-top: 30px;border-radius: 5px;}
@@ -638,16 +652,18 @@ p{
     display: none;}
 .green9{/*t*/
     background: green;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .red9{/*t*/
     background: red;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}             
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}             
 
  /*test 10 ////////////////////////////////////*/
 .test10{
@@ -700,7 +716,7 @@ p{
 .bb3_10:hover{/*t*/
      background: yellow;color: green;}
 .fin10{/*t*/
-    width: 60%;margin: 0 auto;text-align: center;border:solid black 1px;height: auto;
+    width: 70%;margin: 0 auto;text-align: center;border:solid black 1px;height:60% ;
     background-color:#ffffff;align-items: center;display: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      margin-top: 50px;padding-top: 30px;border-radius: 5px;
@@ -714,16 +730,18 @@ p{
     display: none;}
 .green10{/*t*/
     background: green;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .red10{/*t*/
     background: red;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}  
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}  
 
 
  /*test 11 ////////////////////////////////////*/
@@ -778,7 +796,7 @@ p{
 .bb3_11:hover{/*t*/
      background: yellow;color: green;}
 .fin11{/*t*/
-    width: 60%;margin: 0 auto;text-align: center;border:solid black 1px;height: auto;
+    width: 70%;margin: 0 auto;text-align: center;border:solid black 1px;height:60% ;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:#ffffff;align-items: center;display: none;
      margin-top: 50px;padding-top: 30px;border-radius: 5px;}
@@ -791,16 +809,18 @@ p{
     display: none;}
 .green11{/*t*/
     background: green;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .red11{/*t*/
     background: red;
-    padding: 10px ;width: 30%;
+    padding: 10px ;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;} 
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+} 
 
  /*test 12 ////////////////////////////////////*/
  .test12{
@@ -852,7 +872,7 @@ p{
 .bb3_12:hover{/*t*/
      background: yellow;color: green;}
 .fin12{/*t*/
-    width: 60%;margin: 0 auto;text-align: center;border:solid black 1px;height: auto;
+    width: 70%;margin: 0 auto;text-align: center;border:solid black 1px;height:60% ;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:#ffffff;align-items: center;display: none;
      margin-top: 50px;padding-top: 30px;border-radius: 5px;}
@@ -864,17 +884,18 @@ p{
 .quito12{/*t*/
     display: none;}
 .green12{/*t*/
-    background: green;
-    padding: 10px ;width: 30%;
+    padding: 10px ;background:green;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+}
 .red12{/*t*/
-    background: red;
-    padding: 10px ;width: 30%;
+    padding: 10px ;background:red;
     color: #ffffff;border: none;border-radius: 10px;
     font-size: 20px;cursor: pointer;display: inline-block;
-    margin-bottom: 10px;margin-left: 2px;width: 25%;height: 20%;}   
+    margin-bottom: 10px;margin-left: 2px;width: 30%;height: 20%;
+
+}   
 .finish12{
     margin-top: 20px;
 }                                      
