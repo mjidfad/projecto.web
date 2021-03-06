@@ -37,7 +37,7 @@ var storg=localStorage.getItem("mjid");
 //inicio.onclick=()=>{/*pulsar button teste1*/
 function mjid() {
     
-  Android.showToast(toast);
+  Android.showToast("hello");
 start.classList.add("start-test");
 start1.classList.add("star-inicio");
  s=2700;
